@@ -142,13 +142,6 @@ Android Developer • Kotlin & Firebase • Cyber Security Student • Mobile Ap
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan942006&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 # 🧩 Contribution Snake Animation 🐍
 
@@ -188,7 +181,7 @@ Android Developer • Kotlin & Firebase • Cyber Security Student • Mobile Ap
 
 # 💼 Internship Availability
 
-```yaml
+
 Status: Available for Internship
 Roles:
   - Android Developer Intern
@@ -206,9 +199,8 @@ Work Mode:
   - Remote
   - Hybrid
   - On-site
-````
 
----
+
 
 # 🎯 Current Focus
 
